@@ -1,6 +1,6 @@
 # Eye Exercise
 
-In this project we have have created a javascript animation where the eyes follow the mouse movements.
+In this project we have have created a javascript animation where the eyes follow the mouse movements. To load the exercise go on https://github.com/florionn/EyeMovement .
 Move the mouse to see the result.
 
 Copyright <2021> <COPYRIGHT HOLDER "MIT">
